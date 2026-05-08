@@ -1,0 +1,9 @@
+appId: com.pozitron.hepsiburada
+---
+- launchApp
+- tapOn: "Ara"
+- inputText: "Altınmarka"
+- tapOn: "Altınmarka ALT211 Sütlü Damla Çikolata 1Kg"
+- tapOn: "Sepete ekle"
+- tapOn: "Sepete git"
+- assertVisible: "Altınmarka"
